@@ -1,5 +1,7 @@
 # Ladies and Gentlemen,
 
-This is a testplatform for me to test out my newly learned skills. It will probably look like crap to seasoned developers but it's here so that I can learn and one day become a seasoned developer myself.
+2023 was the 10 year anniversary of the snowboard competition series Zillertal Välley Rälley. I've been a photographer there for those 10 years. Now it's time to build a celebratory gallery with the best photos from those 10 years.
 
-Thank you for your interest and have a nice day!
+This is so far a testing platform for me to test things that I learn during my education in web development with Coding Bootcamps Europe.
+
+To seasoned developers this will most of the time really look like beginner stuff, but, you gotta start somewhere.
